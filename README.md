@@ -12,7 +12,7 @@ The following image illustrates the timeline at which each territorial unit (bat
 
 <p align="center">
 
-<img src="Image/fases_implemtacao_cameras.jpg" alt="Graph1" width="600" height="350">
+<img src="Image/fases_implemtacao_cameras.jpg" alt="Graph1" style="display:block; margin:auto;">
 
 <\p>
 
