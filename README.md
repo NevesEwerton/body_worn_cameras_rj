@@ -14,7 +14,7 @@ The following image illustrates the timeline at which each territorial unit (bat
 
 <img src="Image/fases_implemtacao_cameras.jpg" alt="Graph1" style="display:block; margin:auto;">
 
-<\p>
+</p>
 
 
 
