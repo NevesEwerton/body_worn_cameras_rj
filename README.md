@@ -12,6 +12,7 @@ The following image illustrates the timeline at which each territorial unit (bat
 
 ![gráfico1](https://github.com/NevesEwerton/body_worn_cameras_rj/tree/main/Image/fases_implementacao_cameras.jpg)
 
+![Graph](https://github.com/NevesEwerton/body_worn_cameras_rj/tree/main/Image/fases_implementacao_cameras.jpg)
 
 
 
