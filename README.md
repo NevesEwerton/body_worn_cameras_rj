@@ -10,7 +10,7 @@ The state of Rio de Janeiro has been divided into several integrated zones to im
 
 The following image illustrates the timeline at which each territorial unit (battalion) received the cameras.
 
-![gráfico1](fases_implementacao_cameras.jpg)
+![gráfico1](Image/fases_implementacao_cameras.jpg)
 
 
 
