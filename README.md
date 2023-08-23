@@ -30,5 +30,5 @@ $$
 
 ## Results
 
-Here, we have the event-study plot and the estimators table
+Here, we present the event-study plot and table.
 
