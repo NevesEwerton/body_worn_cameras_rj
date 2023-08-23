@@ -24,7 +24,34 @@ where g is the group treated and t is the time that each group received the trea
 
 $Y_{mt} = \alpha + \delta BWC_{m} + \phi Post_{t} + \beta  (BWC \times Post)_{mt} + \epsilon_{mt}$
 
-alpha
+
+| Code Name | Code | Description | Symbol / Character |                                                                 
+| -- | -- | -- | -- |                                                                                                   
+| &alpha; | &#945; | Greek small letter alpha | α |                                                                     
+| &beta; | &#946; | Greek small letter beta | β |                                                                       
+| &gamma; | &#947; | Greek small letter gamma | γ |                                                                     
+| &delta; | &#948; | Greek small letter delta | δ |                                                                     
+| &epsilon; | &#949; | Greek small letter epsilon | ε |                                                                 
+| &zeta; | &#950; | Greek small letter zeta | ζ |                                                                       
+| &eta; | &#951; | Greek small letter eta | η |                                                                         
+| &theta; | &#952; | Greek small letter theta | θ |                                                                     
+| &iota; | &#953; | Greek small letter iota | ι |                                                                       
+| &kappa; | &#954; | Greek small letter kappa | κ |                                                                     
+| &lambda; | &#955; | Greek small letter lambda | λ |                                                                   
+| &mu; | &#956; | Greek small letter mu | μ |                                                                           
+| &nu; | &#957; | Greek small letter nu | ν |                                                                           
+| &xi; | &#958; | Greek small letter xi | ξ |                                                                           
+| &omicron; | &#959; | Greek small letter omicron | ο |                                                                 
+| &pi; | &#960; | Greek small letter pi | π |                                                                           
+| &rho; | &#961; | Greek small letter rho | ρ |                                                                         
+| &sigma; | &#963; | Greek small letter sigma | σ |                                                                     
+| &tau; | &#964; | Greek small letter tau | τ |                                                                         
+| &upsilon; | &#965; | Greek small letter upsilon | υ |                                                                 
+| &phi; | &#966; | Greek small letter phi | φ |                                                                         
+| &chi; | &#967; | Greek small letter chi | χ |                                                                         
+| &psi; | &#968; | Greek small letter psi | ψ |                                                                         
+| &omega; | &#969; | Greek small letter omega | ω |   
+
 
 
 
