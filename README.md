@@ -14,6 +14,15 @@ The following image illustrates the timeline at which each territorial unit (bat
 
 <img src="Image/fases_implemtacao_cameras.jpg" alt="Graph1" width="600" height="350">
 
+## Empirical Strategy
+
+Formmally, the main econometric goal is to estimate the Average Treatment Effect on Treated (ATT) for each group g treated at different moments in time t and then aggregate them using a weighting vector:
+
+$ax^2 + bx + c = 0$.
+
+
+
+
 
 
 
