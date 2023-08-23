@@ -18,8 +18,6 @@ The following image illustrates the timeline at which each territorial unit (bat
 
 Formmally, the main econometric goal is to estimate the Average Treatment Effect on Treated (ATT) for each group g treated at different moments in time t and then aggregate them using a weighting vector:
 
-<p align="center">
-
 $ATT(g,t) = E[Y_{t}^{1} - Y_{t}^{0} | G_{g} = 1]$.
 
 
