@@ -24,7 +24,7 @@ where g is the group treated and t is the time that each group received the trea
 
 $Y_{mt} = \alpha + \delta BWC_{m} + \phi Post_{t} + \beta  (BWC \times Post)_{mt} + \epsilon_{mt}$
 
-
+&psi
 
 
 
