@@ -17,14 +17,10 @@ The following image illustrates the timeline at which each territorial unit (bat
 ## Empirical Strategy
 
 Formmally, the main econometric goal is to estimate the Average Treatment Effect on Treated (ATT) for each group g treated at different moments in time t and then aggregate them using a weighting vector:
-
-<p align="center">
   
 $ATT(g,t) = E[Y_{t}^{1} - Y_{t}^{0} | G_{g} = 1]$.
 
 where g is the group treated and t is the time that each group received the treatment. To incorporate the various waves of treatment and, consequently, the variation in control and treatment groups over time, we used the estimator proposed by Callaway & Sant'Anna (2021). In pratice, the following equation is estimated for all pairs of treated and untreated groups throughout the implementation phases:
-
-<p align="center">
   
 Y_{mt} = &alpha; + &delta; BWC_{m} + &phi; Post_{t} + &beta;  (BWC &times; Post) _{mt} + &epsilon; _{mt}.
 
