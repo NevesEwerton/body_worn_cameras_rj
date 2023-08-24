@@ -32,3 +32,7 @@ $$
 
 Here, we present the event-study plot and table.
 
+<p align="center">
+
+<img src="Image/att_mdip_did.jpg" alt="Graph2" width="600" height="350">
+
