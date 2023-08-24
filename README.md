@@ -13,6 +13,8 @@ There are three police institutions responsible for public security in the state
 
 <img src="Image/mdip_serie_tempo_2013_2020.jpg" alt="Graph" width="600" height="350">
 
+No gráfico XX, temos as estatísticas de morte por intervenção policial para o rio de janeiro e alguns outros estados. 
+
 ## How BWCs were introduced in Rio de Janeiro Police Force?
 
 In 2020, the Brazilian Supreme Federal Court, in response to several complaints of excessive use of force and executions by the security forces in Rio de Janeiro, demanded the creation of a State Plan for the Reduction of Lethality. As part of the plan, the Supreme Court also required the introduction of operational portable body cameras on police uniforms to measure external control over police activities. However, the State Government, which is in charge of the police, strongly resisted implementing this measure. The cameras were only deployed in mid-2022. Even then, not all police detachments are utilizing the technology. To comprehend the impacts of body cameras on the use of force, a dynamic difference-in-differences model was employed. 
