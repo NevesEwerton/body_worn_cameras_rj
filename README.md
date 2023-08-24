@@ -23,6 +23,8 @@ The following image illustrates the timeline at which each territorial unit (bat
 
 ## Data
 
+The data used in this work are from:
+
 * Crime recorders - Institute of Public Security (http://www.ispdados.rj.gov.br/estatistica.html).
 * Information regarding the introduction of cameras in the police battalions - Documents of ADPF nº 635 (https://portal.stf.jus.br/processos/detalhe.asp?incidente=5816502).
 
