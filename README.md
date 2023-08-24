@@ -11,7 +11,7 @@ There are three police institutions responsible for public security in the state
 
 <p align="center">
 
-<img src="Image/mdip_serie_tempo_2013_2020.jpg" alt="Graph" width="600" height="350">
+<img src="Image/serie_temporal_mdip_taxa_estado.jpg" alt="Graph" width="600" height="350">
 
 No gráfico XX, temos as estatísticas de morte por intervenção policial para o rio de janeiro e alguns outros estados. 
 
