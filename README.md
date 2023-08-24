@@ -13,7 +13,7 @@ There are three police institutions responsible for public security in the state
 
 <img src="Image/serie_temporal_mdip_taxa_estado.jpg" alt="Graph" width="600" height="350">
 
-No gráfico XX, temos as estatísticas de morte por intervenção policial para o rio de janeiro e alguns outros estados. 
+In Chart XX, we present the statistics concerning deaths resulting from police interventions (MDIP) for the state of Rio de Janeiro, as well as various other states. Over a continuous span of six years, Rio de Janeiro witnessed a notable escalation in the frequency of MDIP incidents, culminating in the zenith of this temporal series in 2019. Subsequently, a marked reduction was observed in the following year, a fluctuation primarily attributed to the proscription of law enforcement operations within regions under the sway of organized criminal syndicates.
 
 ## How BWCs were introduced in Rio de Janeiro Police Force?
 
