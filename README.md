@@ -2,7 +2,7 @@
 
 ## Introduction
 
-One of the pronounced apprehensions pertaining to the deployment of body-worn cameras pertains to the conceivable dissuasive ramifications they might impose upon law enforcement personnel. To elucidate, the utilization of such devices could potentially engender a decrement in the vigor of exertion exhibited by said agents, thereby engendering a diminution in both their overall efficacy and proactive demeanor. Regrettably, this diminishment in performance transpires sans concurrent concretization of the envisaged fortification of institutional accountability (Magaloni, 2021). However, extant and contemporary empirical substantiation postulates that the deleterious impact on the comportment of security agents is not ostensibly manifest vis-à-vis the utilization of body-worn cameras. Furthermore, it is germane to underscore that this technological modality assumes a salient mantle as an extrinsic mechanism of oversight, duly amplifying accountability paradigms by exerting discernible influence upon the calculus governing utilization of force (Williams et al., 2021; Kim, 2022, Maskaly, Jon, et al., 2017).
+One of the pronounced apprehensions pertaining to the deployment of body-worn cameras pertains to the conceivable dissuasive ramifications they might impose upon law enforcement personnel. To elucidate, the utilization of such devices could potentially engender a decrement in the vigor of exertion exhibited by said agents, thereby engendering a diminution in both their overall efficacy and proactive demeanor. Regrettably, this diminishment in performance transpires sans concurrent concretization of the envisaged fortification of institutional accountability (Magaloni, 2021). However, extant and contemporary empirical substantiation postulates that the deleterious impact on the comportment of security agents is not ostensibly manifest vis-à-vis the utilization of body-worn cameras. Furthermore, it is germane to underscore that this technological modality assumes a salient mantle as an extrinsic mechanism of oversight, duly amplifying accountability paradigms by exerting discernible influence upon the calculus governing utilization of force (Joana et al., 2023; Williams et al., 2021; Kim, 2022, Maskaly, Jon, et al., 2017).
 
 ## Institutional Background
 
@@ -44,3 +44,9 @@ Here, we present the event-study plot and table.
 <img src="Image/att_mdip_did.jpg" alt="Graph2" width="600" height="350">
 
 As evident from the event-study graph, the BWCs exhibits no significant impact on deaths resulting from police interventions, diverging from the findings observed in recent studies.
+
+## Discussion
+
+
+
+## Conclusion
