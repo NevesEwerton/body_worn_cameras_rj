@@ -9,6 +9,8 @@ One of the pronounced apprehensions pertaining to the deployment of body-worn ca
 
 There are three police institutions responsible for public security in the state of Rio de Janeiro. However, they have distinct roles within the security framework. The primary entity responsible for conspicuous policing in Brazil is the Military Police, encompassing around 400,000 officers nationwide, and they are overseen by the respective Governor of each Brazilian state.
 
+![Graph](Image/)
+
 ## How BWCs were introduced in Rio de Janeiro Police Force?
 
 In 2020, the Brazilian Supreme Federal Court, in response to several complaints of excessive use of force and executions by the security forces in Rio de Janeiro, demanded the creation of a State Plan for the Reduction of Lethality. As part of the plan, the Supreme Court also required the introduction of operational portable body cameras on police uniforms to measure external control over police activities. However, the State Government, which is in charge of the police, strongly resisted implementing this measure. The cameras were only deployed in mid-2022. Even then, not all police detachments are utilizing the technology. To comprehend the impacts of body cameras on the use of force, a dynamic difference-in-differences model was employed. 
