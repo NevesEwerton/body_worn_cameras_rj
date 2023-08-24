@@ -9,7 +9,9 @@ One of the pronounced apprehensions pertaining to the deployment of body-worn ca
 
 There are three police institutions responsible for public security in the state of Rio de Janeiro. However, they have distinct roles within the security framework. The primary entity responsible for conspicuous policing in Brazil is the Military Police, encompassing around 400,000 officers nationwide, and they are overseen by the respective Governor of each Brazilian state.
 
-![Graph](Image/mdip_serie_tempo_2013_2020.jpg)
+<p align="center">
+
+<img src="Image/mdip_serie_tempo_2013_2020.jpg" alt="Graph" width="600" height="350">
 
 ## How BWCs were introduced in Rio de Janeiro Police Force?
 
