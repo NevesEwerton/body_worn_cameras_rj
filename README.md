@@ -50,11 +50,17 @@ $$
 
 ## Results
 
+* Impacts on MDIP
+
 Here, we present the event-study plot and table.
 
 <p align="center">
 
 <img src="Image/att_mdip_did.jpg" alt="Graph2" width="600" height="350">
+
+* Impacts on Police Productivity
+
+  
 
 As evident from the event-study graph, the BWCs exhibits no significant impact on deaths resulting from police interventions, diverging from the findings observed in recent studies.
 
