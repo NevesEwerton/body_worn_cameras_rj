@@ -60,7 +60,7 @@ Here, we present the event-study plot and table.
 
 As evident from the event-study graph, the BWCs exhibits no significant impact on deaths resulting from police interventions, diverging from the findings observed in recent studies.
 
-* Impacts on Police Productivity
+* Impacts on Police Efforts
 
 ## Discussion
 
