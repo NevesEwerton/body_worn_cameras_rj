@@ -72,10 +72,10 @@ As evident from the event-study graph, the BWCs exhibits no significant impact o
 
 ## Reference
 
-Barbosa, Daniel, et al. "De-escalation technology: the impact of body-worn cameras on citizen-police interactions." (2021).
-Kim, Taeho. "Facilitating police reform: Body cameras, use of force, and law enforcement outcomes." Use of Force, and Law Enforcement Outcomes (October 23, 2019) (2019).
-Magaloni, Beatriz, et al. "How body-worn cameras affect the use of gunshots, stop-and searches and other forms of police behavior: A Randomized Control Trial in Rio de Janeiro." (2019): 1-55.
-Williams Jr, Morgan C., et al. "Body-worn cameras in policing: Benefits and costs." (2021).
+* Barbosa, Daniel, et al. "De-escalation technology: the impact of body-worn cameras on citizen-police interactions." (2021).
+* Kim, Taeho. "Facilitating police reform: Body cameras, use of force, and law enforcement outcomes." Use of Force, and Law Enforcement Outcomes (October 23, 2019) (2019).
+* Magaloni, Beatriz, et al. "How body-worn cameras affect the use of gunshots, stop-and searches and other forms of police behavior: A Randomized Control Trial in Rio de Janeiro." (2019): 1-55.
+* Williams Jr, Morgan C., et al. "Body-worn cameras in policing: Benefits and costs." (2021).
 
 
 ## Packages
