@@ -1,7 +1,5 @@
 
-<div style = "display: inline_block"><br>
-  <img align="center" height="35" width="100" src="https://img.shields.io/github/watchers/NevesEwerton/body_worn_cameras_rj">
-</div>
+
 # body_worn_cameras_rj
 
 ## Introduction
@@ -83,4 +81,8 @@ As evident from the event-study graph, the BWCs exhibits no significant impact o
 
 
 ## Packages
+
+<div style = "display: inline_block"><br>
+  <img align="center" height="35" width="100" src="https://img.shields.io/github/watchers/NevesEwerton/body_worn_cameras_rj">
+</div>
 
