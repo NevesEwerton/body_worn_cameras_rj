@@ -1,6 +1,6 @@
 
 <div style = "display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://img.shields.io/github/watchers/NevesEwerton/body_worn_cameras_rj">
+  <img align="center" height="35" width="100" src="https://img.shields.io/github/watchers/NevesEwerton/body_worn_cameras_rj">
 </div>
 # body_worn_cameras_rj
 
